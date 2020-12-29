@@ -1,4 +1,4 @@
-# SDS1: Instalação das ferramentas no Mac
+# SDS: Instalação das ferramentas no Mac
 
 ## ATENÇÃO:
 

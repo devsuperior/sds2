@@ -1,4 +1,4 @@
-# SDS1: Instalação das ferramentas no Windows
+# SDS: Instalação das ferramentas no Windows
 
 ## ATENÇÃO:
 

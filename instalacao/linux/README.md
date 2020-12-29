@@ -1,4 +1,4 @@
-# SDS1: Instalação das ferramentas no Linux (Ubuntu/Debian)
+# SDS: Instalação das ferramentas no Linux (Ubuntu/Debian)
 
 ## ATENÇÃO:
 
