@@ -11,6 +11,6 @@ https://www.figma.com/file/DazICRBCGwzZwPkOOXk8EW/DSDeliver?node-id=0%3A1
 npx create-react-app front-web --template typescript
 ```
 
-## Video sobre introdução ao React
+## Video do canal sobre introdução ao React
 
 [![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=IOJoJGDowEY)
