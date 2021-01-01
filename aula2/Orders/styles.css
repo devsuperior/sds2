@@ -9,6 +9,8 @@
 .orders-steps-container {
   display: flex;
   justify-content: center;
+  background-color: #FFF;
+  margin-bottom: 30px;
 }
 
 .orders-steps-content {
