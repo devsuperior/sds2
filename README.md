@@ -33,3 +33,7 @@ Se você ainda não viu os vídeos de preparação da SDS 2.0, corre lá que ain
 ### 2) Modelo Conceitual
 
 [![Image](https://img.youtube.com/vi/vNS-54QlcEg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/vNS-54QlcEg)
+
+### 3) Super revisão de OO e SQL
+
+[![Image](https://img.youtube.com/vi/3qjNLlvKcYs/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/3qjNLlvKcYs)
