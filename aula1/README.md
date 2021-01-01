@@ -4,18 +4,6 @@
 
 [![Image](https://img.youtube.com/vi/b8uLFfzcVQ8/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/b8uLFfzcVQ8)
 
-## Layout Figma
-
-https://www.figma.com/file/LAIvIzyaJsSl2A9NMrnR7W/DSDeliver01
-
-https://www.figma.com/file/sagWrEqbSarTcpE6Sybgtk/DSDeliver02
-
-https://www.figma.com/file/BVpIFfl1pHNaQo3T2hwONn/DSDeliver03
-
-https://www.figma.com/file/pHfpDnEZYtWOQ9WGDVuCsu/DSDeliver04
-
-https://www.figma.com/file/BMIYHhdtpAXQgAPPDWLi18/DSDeliver05
-
 ## Modelo conceitual
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png "Modelo conceitual")
 
