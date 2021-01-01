@@ -1,12 +1,14 @@
 .orders-container {
   background-color: var(--light-color);
-  display: flex;
-  align-items: center;
-  flex-direction: column;
 }
 
 .orders-container h3 {
   margin: 0;
+}
+
+.orders-steps-container {
+  display: flex;
+  justify-content: center;
 }
 
 .orders-steps-content {
