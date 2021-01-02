@@ -9,7 +9,7 @@
 
 ## Padrão camadas adotado
 
-![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/camadas.png "Modelo conceitual")
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/camadas.png "Padrão camadas")
 
 ## Checklist
 
@@ -33,7 +33,7 @@
   - Arquivo system.properties
   - Profile prod -> commit
 - Implantar projeto no Heroku
-  - Criar app e provisionar Heroku
+  - Criar app e provisionar Postgres
   - Criar base de dados remota
   - Executar comandos no Heroku CLI
 
