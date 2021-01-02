@@ -119,7 +119,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 }
 ```
 
-## Arquivos properties para configuração de banco de dados
+## Arquivos .properties de cada profile do projeto
 
 ### application.properties
 ```
