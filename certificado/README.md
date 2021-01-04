@@ -26,7 +26,7 @@ O código do seu certificado será os 7 primeiros dígitos do seu CPF (somente n
 
 ## Exemplo de post no Linkedin
 
-Seu post no Linkedin deve estar informando que você já terminou o back end da Semana DevSuperior, e deve linkar a página do Linkedin da DevSuperior. A imagem do post NÃO é necessária, mas colocar alguma imagem deixa o post mais atrativo:
+Seu post no Linkedin deve estar informando que você já terminou o back end da Semana DevSuperior, e deve linkar a página do Linkedin da DevSuperior. A imagem do post não é necessária, mas colocar alguma imagem deixa o post mais atrativo **(veja algumas sugestões de imagens abaixo)**:
 
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/linkedin1.png "Post no Linkedin")
 
@@ -37,3 +37,27 @@ Se você não souber como linkar uma página do Linkedin no seu post, quando voc
 Se você não souber como obter o link do seu post do Linkedin, veja a figura abaixo:
 
 ![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/linkedin3.png "Post no Linkedin")
+
+### Sugestões de imagens
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-01.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-02.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-03.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-04.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-05.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-06.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-07.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-08.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-09.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-10.png "Sugestão de imagem para post no Linkedin")
+
+![Image](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/fase1-11.png "Sugestão de imagem para post no Linkedin")
