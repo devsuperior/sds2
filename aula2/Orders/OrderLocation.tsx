@@ -5,8 +5,7 @@ const loadOptions = async (inputValue: string, callback: (places: Place[]) => vo
     return ({
       label: item.place_name,
       value: item.place_name,
-      coords: item.center,
-      place: item.place_name,
+      coords: item.center
     });
   });
 
