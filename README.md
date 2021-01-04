@@ -6,6 +6,13 @@ Aqui você vai encontrar os materiais de apoio para instalar as ferramentas nece
 
 Já clica lá na star pra gente bombar esse repositório. Vamos fazer um evento épico galera! :)
 
+#### Cronograma de liberação dos conteúdos
+- 04/01/2021 08h00: Aula 1 - Back end
+- 06/01/2021 08h00: Aula 2 - Front end web
+- 08/01/2021 08h00: Aula 3 - Front end mobile
+- 10/01/2020 12h00: Perguntas e respostas
+
+
 ## Guias de instalação das ferramentas
 
 [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds2/tree/master/instalacao/windows)
