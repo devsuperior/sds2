@@ -22,6 +22,10 @@ Já clica lá na star pra gente bombar esse repositório. Vamos fazer um evento 
 
 [Materiais de apoio para aula 3](https://github.com/devsuperior/sds2/tree/master/aula3)
 
+## Como obter o certificado?
+
+https://github.com/devsuperior/sds2/tree/master/certificado
+
 ## Vídeos de preparação
 
 Se você ainda não viu os vídeos de preparação da SDS 2.0, corre lá que ainda dá tempo:
