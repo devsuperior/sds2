@@ -12,6 +12,7 @@ Já clica lá na star pra gente bombar esse repositório. Vamos fazer um evento 
 - 08/01/2021 08h00: Aula 3 - Front end mobile
 - 10/01/2020 12h00: Perguntas e respostas
 
+* *ATENÇÃO: os conteúdos ficarão disponíveis somente até o final do evento, dia 10/01 às 23h59.*
 
 ## Guias de instalação das ferramentas
 
