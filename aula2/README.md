@@ -2,8 +2,15 @@
 
 ## Telas do sistema
 
-https://www.figma.com/file/DazICRBCGwzZwPkOOXk8EW/DSDeliver?node-id=0%3A1
+https://www.figma.com/file/LAIvIzyaJsSl2A9NMrnR7W/DSDeliver01
 
+https://www.figma.com/file/sagWrEqbSarTcpE6Sybgtk/DSDeliver02
+
+https://www.figma.com/file/BVpIFfl1pHNaQo3T2hwONn/DSDeliver03
+
+https://www.figma.com/file/pHfpDnEZYtWOQ9WGDVuCsu/DSDeliver04
+
+https://www.figma.com/file/BMIYHhdtpAXQgAPPDWLi18/DSDeliver05
 
 ## Criando projeto com `create-react-app`:
 
