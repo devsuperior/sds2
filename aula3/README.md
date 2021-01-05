@@ -12,14 +12,23 @@ https://www.figma.com/file/pHfpDnEZYtWOQ9WGDVuCsu/DSDeliver04
 
 https://www.figma.com/file/BMIYHhdtpAXQgAPPDWLi18/DSDeliver05
 
-## Criando projeto com `Expo`:
+## Passo a passo de configuração do projeto:
 
+#### Instando o `Expo` globalmente:
 ```bash
 npm install --global expo-cli
 ```
-
+#### Criando projeto com `Expo`:
 ```bash
-expo init teste-version -t expo-template-blank-typescript
+expo init front-mobile -t expo-template-blank-typescript
+```
+#### Após a instalação, entrar na pasta `front-mobile` e remover a pasta `.git` (muita atenção nesse passo!)
+```bash
+rm -rf .git
+```
+#### Instalando dependências:
+```bash
+expo install @react-navigation/stack @react-native-community/masked-view react-native-screens react-native-gesture-handler @react-navigation/native
 ```
 
 ## Links úteis:
