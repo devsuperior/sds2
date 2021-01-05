@@ -3,10 +3,6 @@
     marginTop: '15%',
     alignItems: 'center'
   },
-  gamerImage: {
-    width: 292,
-    height: 229
-  },
   title: {
     color: '#263238',
     fontSize: 26,
