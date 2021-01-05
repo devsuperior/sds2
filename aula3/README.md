@@ -28,7 +28,7 @@ rm -rf .git
 ```
 #### Instalando dependências:
 ```bash
-expo install @react-navigation/stack @react-native-community/masked-view react-native-screens react-native-gesture-handler @react-navigation/native
+expo install @react-navigation/stack @react-native-community/masked-view react-native-screens react-native-gesture-handler @react-navigation/native expo-app-loading @expo-google-fonts/open-sans expo-font
 ```
 
 ## Links úteis:
