@@ -22,7 +22,7 @@ npm install --global expo-cli
 ```bash
 expo init front-mobile -t expo-template-blank-typescript --npm
 ```
-#### Após a instalação, entrar na pasta `front-mobile` e remover a pasta `.git` (MUITA ATENÇÃO NESSE PASSO!)
+#### Após a instalação,  remover a pasta `.git` de DENTRO DA PASTA `front-mobile`  (MUITA ATENÇÃO NESSE PASSO!)
 ```bash
 rm -rf .git
 ```
