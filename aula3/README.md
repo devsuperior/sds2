@@ -33,4 +33,5 @@ expo install @react-navigation/stack @react-native-community/masked-view react-n
 
 ## Links úteis:
 - `https://docs.expo.io/`
+- https://docs.expo.io/guides/using-custom-fonts/
 
