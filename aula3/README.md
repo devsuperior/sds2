@@ -20,7 +20,7 @@ npm install --global expo-cli
 ```
 #### Criando projeto com `Expo`:
 ```bash
-expo init front-mobile -t expo-template-blank-typescript
+expo init front-mobile -t expo-template-blank-typescript --npm
 ```
 #### Após a instalação, entrar na pasta `front-mobile` e remover a pasta `.git` (MUITA ATENÇÃO NESSE PASSO!)
 ```bash
