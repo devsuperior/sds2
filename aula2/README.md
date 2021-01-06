@@ -21,6 +21,11 @@ npx create-react-app front-web --template typescript --use-npm
 ## URL de busca de endereços do MapBox:
 `https://api.mapbox.com/geocoding/v5/mapbox.places/${local}.json?access_token=${mapboxToken}`
 
+## Conteúdo do arquivo `_redirects`:
+```bash
+/*  /index.html  200
+```
+
 ## Video do canal sobre introdução ao React
 
 [![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=IOJoJGDowEY)
