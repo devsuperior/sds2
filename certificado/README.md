@@ -12,7 +12,7 @@ https://forms.gle/jHFyT2THxhTKJH4S8
 
 ## Etapa 2: Github e Netlify finalizados
 
-Depois que você publicar sua aplicação web funcionando no Netlify, você deve preencher este formulário contendo o link do Github e o link do Netlify para que possamos validar:
+Depois que você terminar **a AULA 3** e publicar sua aplicação web funcionando no Netlify, você deve preencher este formulário contendo o link do Github e o link do Netlify para que possamos validar:
 
 https://forms.gle/VorYMGfTS2Y8RFka6
 
