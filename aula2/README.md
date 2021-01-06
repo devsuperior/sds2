@@ -22,7 +22,7 @@ npx create-react-app front-web --template typescript --use-npm
 `https://api.mapbox.com/geocoding/v5/mapbox.places/${local}.json?access_token=${mapboxToken}`
 
 ## Conteúdo do arquivo `_redirects`:
-```bash
+```
 /*  /index.html  200
 ```
 
