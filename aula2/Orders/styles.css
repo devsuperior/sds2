@@ -54,11 +54,12 @@
   display: flex;
   justify-content: center;
 }
+
 .orders-list-items {
   width: 70%;
   display: grid;
   grid-template-columns: repeat(auto-fill, 235px);
-  grid-gap: 20px 0;
+  grid-gap: 20px 15px;
   justify-content: space-between;
 }
 
@@ -258,4 +259,36 @@
 .order-summary-make-order:hover {
   background-color: #fcf2f2;
   transform: scale(1.01);
+}
+
+@media only screen and (max-width: 768px) {
+  .orders-steps-content {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    width: 90%;
+  }
+
+  .steps-items {
+    padding: 0
+  }
+
+  .order-location-content {
+    width: 90%;
+  }
+
+  .order-location-container {
+    margin-bottom: 20px;
+  }
+
+  .order-summary-content {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .order-summary-make-order {
+    margin-top: 15px;
+    width: 100%;
+  }
 }
