@@ -37,6 +37,8 @@
   - Criar base de dados remota
   - Executar comandos no Heroku CLI
 
+**ATENÇÃO: O PROJETO NÃO RODA LOCALMENTE NO PROFILE PROD! Se você quiser rodar o projeto localmente depois, mude para o profile test.**
+
 ```bash
 heroku login
 heroku git:remote -a <nome-do-app>
