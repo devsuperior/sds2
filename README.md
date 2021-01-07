@@ -8,11 +8,11 @@ Já clica lá na star pra gente bombar esse repositório. Vamos fazer um evento 
 
 #### Cronograma de liberação dos conteúdos
 - 04/01/2021 08h00: Aula 1 - Back end
-- 06/01/2021 08h00: Aula 2 - Front end web
-- 08/01/2021 08h00: Aula 3 - Front end mobile
+- 06/01/2021 08h00: Aula 2 - Front end web (parte 1)
+- 08/01/2021 08h00: Aula 3 - Front end web (parte 2) + Aula 4 - front end mobile
 - 10/01/2020 12h00: Perguntas e respostas
 
-* *ATENÇÃO: os conteúdos ficarão disponíveis somente até o final do evento, dia 10/01 às 23h59.*
+* *ATENÇÃO: as aulas 1 2 e 3 ficarão disponíveis somente até o final do evento, dia 10/01 às 23h59. A aula 4 ficará disponível até dia 17/01 às 23h59*
 
 ## Guias de instalação das ferramentas
 
