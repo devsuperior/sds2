@@ -86,3 +86,9 @@
     width: 80%;
   }
 }
+
+@media (max-height: 700px) {
+  .home-container {
+    height: auto;
+  }
+}
