@@ -1,6 +1,6 @@
 {
   container: {
-    marginTop: '15%',
+    marginTop: '5%',
     alignItems: 'center'
   },
   title: {
@@ -19,7 +19,7 @@
     textAlign: 'center'
   },
   footer: {
-    marginTop: '15%',
+    marginTop: '5%',
     alignItems: 'center'
   },
   button: {
