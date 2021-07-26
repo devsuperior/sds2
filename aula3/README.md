@@ -2,7 +2,7 @@
 
 ## Telas do sistema
 
-https://www.figma.com/file/DazICRBCGwzZwPkOOXk8EW/sds2-semana-devsuperior
+https://www.figma.com/file/9KM3LJbfPU5OH4kEWbPqnC/SDS2-DevSuperior
 
 ## Passo a passo de configuração do projeto:
 
